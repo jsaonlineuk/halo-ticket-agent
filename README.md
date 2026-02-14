@@ -10,6 +10,10 @@ This repo demonstrates how to turn messy support notes into a consistent Halo ti
 
 > **Safety note:** This project is designed for *sanitised* operational text. Do **not** paste patient-identifiable information (PII) or clinical content. The examples here are fictional.
 
+## Start here
+- prompts/halo_agent_prompt_v1.txt
+- policies/
+
 ## What it does
 
 Given raw notes, it produces:
